@@ -1,0 +1,27 @@
+---
+title: "Relatório Exercício Swirl"
+author: "Daniele Lima"
+date: "2026-03-15"
+output: pdf_document
+docente: "Prof. Dr. Saulo Chaves"
+disciplina: "Introdução à Genética Estatística"
+nusp: "3702478"
+Aluna: "Doutoranda"
+---
+
+## Conteúdo do Relatório
+
+O módulo escolhido foi: **1: Basic Building Blocks**
+
+Neste primeiro módulo do **swirl** são vistos conceitos fundamentais da linguagem R, mostrando como executar comandos básicos no console.
+
+> A forma como o R pode funcionar como uma **calculadora científica**.  
+> Explicação de **vetores e seus tamanhos (length)**, bem como sua atribuição.  
+> Como atribuir valores a **variáveis**.  
+> Funções simples como **raiz quadrada (`sqrt`)**.  
+> **Reciclagem de vetores**, na qual o R repete o vetor de menor tamanho.  
+> Uso das **setas ↑ e ↓** para recuperar comandos anteriores no console.
+
+O módulo 1 foi finalizado completamente, como mostra a figura abaixo:
+
+![Figura 1 – Finalização da tarefa no swirl](Print_swirl.png)
